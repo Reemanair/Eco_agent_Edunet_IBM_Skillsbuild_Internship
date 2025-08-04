@@ -1,0 +1,4 @@
+ibm-watson-machine-learning==1.0.312
+ibm-watsonx-ai==1.0.5
+ibm-cloud-sdk-core==3.16.7
+gradio==4.29.0

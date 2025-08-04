@@ -1,0 +1,142 @@
+# 🌱 Eco Lifestyle Agent Knowledge Base
+
+---
+
+## 1. Introduction to Sustainable Living
+Sustainable living means making choices that reduce environmental harm and preserve resources for future generations.  
+Key principles:  
+- Reduce resource consumption  
+- Reuse and repair products  
+- Recycle materials  
+- Support eco-friendly products and companies  
+
+---
+
+## 2. Energy Conservation Tips
+- Switch to **LED lighting** to reduce power consumption.  
+- Use **solar water heaters** or rooftop solar panels.  
+- Turn off appliances completely instead of leaving them on standby.  
+- Opt for **energy-efficient appliances** (look for BEE 5-star ratings in India).  
+- Use natural ventilation and daylight to minimize air conditioning and artificial lighting.
+
+---
+
+## 3. Reducing Plastic Usage
+- Carry **cloth or jute bags** instead of single-use plastic bags.  
+- Use **steel or glass bottles** instead of disposable plastic bottles.  
+- Avoid products with **excessive plastic packaging**.  
+- Support brands that use **biodegradable packaging**.
+
+---
+
+## 4. Water Conservation Practices
+- Install **low-flow faucets** and showerheads.  
+- Repair leaking taps immediately.  
+- Collect **rainwater for gardening** or cleaning.  
+- Use a **bucket instead of a shower** to save water.  
+- Reuse greywater for non-drinking purposes.
+
+---
+
+## 5. Eco-Friendly Travel
+- Use **public transportation** (metro, bus, shared rides).  
+- Walk or cycle for short distances.  
+- Carpool with friends or colleagues.  
+- Prefer **electric vehicles** or hybrids where possible.  
+- Offset travel emissions by supporting reforestation projects.
+
+---
+
+## 6. Recycling Guidelines
+### India-Wide Guidelines:
+- Separate waste into:
+  - **Dry waste** (paper, plastic, metal)
+  - **Wet waste** (food, garden waste)
+  - **Hazardous waste** (batteries, e-waste)
+- Compost biodegradable waste at home.
+- Hand over **e-waste** to certified recycling centers.
+
+### Kerala-Specific Programs:
+- **Haritha Karma Sena**: Local waste management groups.
+- **Suchitwa Mission**: Government initiative for solid waste management.
+
+---
+
+## 7. Government Policies and Schemes
+### India
+- **National Electric Mobility Mission (NEMMP)**: Promotes electric vehicles.
+- **Perform, Achieve and Trade (PAT) Scheme**: Encourages energy efficiency in industries.
+- **National Solar Mission**: Expands solar energy production.
+
+### Kerala
+- **Green Kerala Mission**: Focuses on biodiversity and afforestation.
+- **Renewable Energy Subsidy Programs** for rooftop solar and biogas.
+
+---
+
+## 8. Global Environmental Agreements
+- **Paris Agreement**: Global effort to limit temperature rise to 1.5°C.
+- **UN Sustainable Development Goals (SDGs)**:
+  - Goal 12: Responsible Consumption and Production
+  - Goal 13: Climate Action
+- **Kyoto Protocol**: Focused on reducing greenhouse gas emissions.
+
+---
+
+## 9. Climate Change and Global Warming
+- Main causes: greenhouse gases (CO₂, CH₄, N₂O).
+- Effects: Rising sea levels, extreme weather, biodiversity loss.
+- Actions to mitigate:
+  - Reduce fossil fuel use.
+  - Increase renewable energy.
+  - Protect forests and natural ecosystems.
+
+---
+
+## 10. Eco-Friendly Products and Certifications
+Look for these certifications when buying:
+- **Energy Star** (appliances)
+- **Ecomark** (India eco label)
+- **FSC Certification** (sustainable wood & paper)
+- **GreenPro** (products certified by CII in India)
+
+---
+
+## 11. Local Recycling and Disposal Centers
+- **Kerala State Pollution Control Board**: Lists approved recycling centers.
+- **Haritha Karma Sena Collection Points**: Waste segregation and pickup.
+- **Suchitwa Mission Helpline**: Guidance on waste disposal.
+
+---
+
+## 12. Eco-Friendly Daily Actions
+- Carry a reusable coffee cup or water bottle.
+- Use a bicycle for short errands.
+- Plant trees in your community.
+- Reduce meat consumption for lower carbon footprint.
+- Support local farmers and buy seasonal produce.
+
+---
+
+## 13. Emergency Eco Tips for Households
+- **Power Cut**: Use battery or solar lanterns instead of candles (reduce indoor pollution).
+- **Water Shortage**: Store emergency water and reuse greywater.
+- **Flood Precaution**: Keep hazardous chemicals away from flood-prone areas.
+
+---
+
+## 14. Awareness and Educational Resources
+- Websites:
+  - [UN Environment Programme](https://www.unep.org)
+  - [Ministry of Environment, Forest and Climate Change, India](https://moef.gov.in)
+  - [Kerala Suchitwa Mission](https://suchitwamission.org)
+- Books:
+  - “Silent Spring” by Rachel Carson
+  - “The Sixth Extinction” by Elizabeth Kolbert
+- Apps:
+  - JouleBug (eco-lifestyle tips)
+  - Oroeco (tracks carbon footprint)
+
+---
+
+*This document is designed as a reference for the Eco Lifestyle Agent to retrieve sustainable living tips, government schemes, and eco-friendly solutions.*
