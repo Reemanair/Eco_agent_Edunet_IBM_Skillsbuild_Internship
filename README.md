@@ -1,56 +1,61 @@
-# Eco_agent_Edunet_IBM_Skillsbuild_Internship
-AI-powered eco-friendly chatbot built using IBM Watsonx Granite &amp; Gradio — provides interactive sustainability tips &amp; answers in real-time.
-# Eco-Friendly Chatbot using IBM Granite + Gradio
+🌱 Eco-Friendly AI Chatbot
 
-This project is a simple AI-powered chatbot built using IBM's Granite model and Gradio.  
-It takes user queries and responds with advice, tips, or answers based on the prompt.
+Interactive chatbot powered by IBM Watsonx Granite & Gradio that gives real-time advice on sustainability, eco-friendly living, and green practices.
 
-## Features
-- Uses IBM Watsonx.ai Granite 3-2B Instruct model.
-- Interactive Chatbot UI with Gradio.
-- Real-time responses to user questions.
-- Easy to run locally or deploy on cloud.
+🚀 Live Demo: Try the chatbot.
+https://bf528c43efb649475f.gradio.live/👆link(Available for 1 week)
 
-## Project Structure
-.
-├── app.py              # Main chatbot code (exported from Jupyter Notebook)
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
 
-## Installation & Setup
+📌 Features
 
-### 1. Clone this repository
+💬 Chat in Real-time – Ask any eco-related question.
 
-git clone https://github.com/yourusername/eco-friendly-chatbot.git
-cd eco-friendly-chatbot
+🌍 Eco Advice – Get actionable tips to reduce your environmental impact.
+
+⚡ Powered by IBM Granite – Fast, AI-driven responses.
+
+🎨 Gradio UI – Simple, clean, and interactive chatbot interface.
+
+
+🛠️ Tech Stack
+
+Python 3.x
+
+Gradio (for UI)
+
+IBM Watsonx Granite (LLM for generating responses)
+
+
+📂 Installation & Setup
+
+1. Clone the repository
+
+git clone https://github.com/yourusername/eco-chatbot.git
+cd eco-chatbot
+
 
 2. Install dependencies
 
 pip install -r requirements.txt
 
-3. Add your IBM Credentials
 
-Edit app.py and replace with your Watsonx.ai credentials:
+3. Add your IBM Watsonx credentials
 
-credentials = {
-    "url": "https://us-south.ml.cloud.ibm.com",
-    "apikey": "YOUR_API_KEY"
-}
+Set your API key and URL in the script (replace placeholders).
 
-4. Run the chatbot
+
+
+4. Run the chatbot locally
 
 python app.py
 
-The chatbot will be available at:
 
-http://127.0.0.1:7860
+📄 Requirements
 
-Tech Stack
+Dependencies are listed in requirements.txt
 
-IBM Watsonx.ai Granite Model
+🔗 Links
 
-Gradio
+🌱 Live Demo (1 Week): https://bf528c43efb649475f.gradio.live/
 
-Python 3.9+
-
-Jupyter Notebook (for development)
+📂 GitHub Repository: https://github.com/Reemanair/Eco_agent_Edunet_IBM_Skillsbuild_Internship
